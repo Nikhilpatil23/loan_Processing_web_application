@@ -1,0 +1,8 @@
+06-08 15:38 root         INFO     connected to loan_data.db
+06-08 15:38 werkzeug     INFO      * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:80
+ * Running on http://192.168.1.219:80 (Press CTRL+C to quit)
+06-08 15:39 werkzeug     INFO     127.0.0.1 - - [08/Jun/2022 15:39:03] "GET / HTTP/1.1" 200 -
+06-08 15:39 werkzeug     INFO     127.0.0.1 - - [08/Jun/2022 15:39:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+06-08 15:39 werkzeug     INFO     127.0.0.1 - - [08/Jun/2022 15:39:09] "GET /application HTTP/1.1" 200 -
